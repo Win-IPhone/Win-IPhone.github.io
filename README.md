@@ -1,2 +1,2 @@
-# Win-IPhone.githup.io
-Win-IPhone.githup.io
+# Win-IPhone.github.io
+Win-IPhone.github.io
